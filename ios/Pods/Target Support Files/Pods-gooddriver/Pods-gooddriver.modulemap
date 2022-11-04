@@ -1,0 +1,6 @@
+module Pods_gooddriver {
+  umbrella header "Pods-gooddriver-umbrella.h"
+
+  export *
+  module * { export * }
+}
